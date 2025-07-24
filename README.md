@@ -1,0 +1,1 @@
+Improved Data augmentation approach to enhance time series classification. Generated synthetic data using DTW-based weighted averaging to expand small datasets. Tested on the UCR archive, showing notable accuracy improvements with deeper models.
